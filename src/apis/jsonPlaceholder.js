@@ -1,4 +1,4 @@
 import Axios from 'axios'
 export default Axios.create({
-  baseURL: 'https:jsonplaceholder.typecode.com'
+  baseURL: 'https://jsonplaceholder.typecode.com'
 })
